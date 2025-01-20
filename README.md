@@ -1,4 +1,4 @@
-# Quiz App README.md
+# Quiz App
 
 ## Introduction
 This repository contains the code for a quiz application built using `HTML`, `CSS`, and `JavaScript`. The application fetches questions from the Open Trivia DB API, tracks high scores, and provides an interactive user experience. It incorporates modern JavaScript features and utilizes Local Storage for saving user data.
